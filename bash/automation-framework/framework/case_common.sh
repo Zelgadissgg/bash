@@ -11,7 +11,6 @@
 #$      
 #$ func_case_check_environments
 #$        func_batf_check_environments
-#$        func_batf_check_vbios
 #$      func_case_dump_description
 #$      FUNC_CASE_UPGIMAGE
 #$      FUNC_CASE_ENVCHECK
